@@ -2,6 +2,23 @@
 
 ![Image](https://github.com/user-attachments/assets/fe7991a0-3228-4162-83e5-8d2829704cad)
 
+The columns in the dataset represented the following:
+login – The unique identifier for a trader's account.
+ticket – The unique trade ID assigned to each transaction.
+symbol – The financial instrument being traded.
+type – The type of trade executed.
+open_time – The exact timestamp when the trade was opened.
+close_time – The exact timestamp when the trade was closed.
+open_price – The price at which the asset was bought or sold when the trade was initiated.
+close_price – The price at which the asset was bought or sold when the trade was closed.
+stop loss – The predefined price level where the trade would automatically close to minimize losses.
+take profit – The predefined price level where the trade would automatically close to secure profits.
+pips – The profit/loss measured in pips (smallest price movement in trading).
+reason – The reason for trade closure.
+volume – The lot size or contract size of the trade.
+profit – The total monetary profit/loss from the trade.
+
+
 #               Key Insights             #
 
 ### 1. Total Profit Performance:
@@ -14,15 +31,14 @@
 
 ### 3. Trading Performance by Type:
    - **Sell trades** accounted for **87.2%** of total profit (**1.17M**), while **buy trades** contributed **12.8% (0.17M)**.
-   - This indicates a strong preference for short positions in profitable trades.
 
 ### 4. Top Profitable Trades by Volume & Ticket:
-   - The most profitable trades had volumes of **115K, 113K, and 103K**.
-   - The highest single trade profit came from **Ticket 759689969**, earning **19.1K**.
+   - The most profitable trades **115K, 113K, and 103K** had volumes of **200, 300, and 500**.
+   - The highest single trade profit came from **Ticket 75588886**, earning **19.1K**.
 
 ### 5. Monthly Profit Trends:
-   - Profitability steadily increased from **July 2024**, peaking in **January 2025 (792K)**.
-   - A sharp decline occurred in **February 2025 (-42K)**, highlighting a downturn.
+   - Profitability steadily increased from **July 2024**, peaking in **January 2025** for both **Open Time** and **Close Time**.
+   - A sharp decline occurred in **February 2025** for both **Open Time** and **Close Time**, highlighting a downturn.
 
 ### 6. Profitability by Trade Reasons & Stop Loss:
    - The **top two trading reasons** resulted in **2.3M** and **2.1M** in total profits.
