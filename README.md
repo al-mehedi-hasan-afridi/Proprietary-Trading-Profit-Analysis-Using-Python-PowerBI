@@ -4,9 +4,9 @@
 
 ---
 
-The columns in the dataset represented the following:
-/n **login** – The unique identifier for a trader's account.
-/n **ticket** – The unique trade ID assigned to each transaction.
+The columns in the dataset represented the following: <br>
+**login** – The unique identifier for a trader's account. <br>
+**ticket** – The unique trade ID assigned to each transaction.
 **symbol** – The financial instrument being traded.
 **type** – The type of trade executed.
 **open_time** – The exact timestamp when the trade was opened.
