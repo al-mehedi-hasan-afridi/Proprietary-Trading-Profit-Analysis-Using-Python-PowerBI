@@ -3,7 +3,7 @@
 ![Image](https://github.com/user-attachments/assets/fe7991a0-3228-4162-83e5-8d2829704cad)
 
 ---
-
+```
 The columns in the dataset represented the following:
 login – The unique identifier for a trader's account.
 ticket – The unique trade ID assigned to each transaction.
@@ -19,7 +19,7 @@ pips – The profit/loss measured in pips (smallest price movement in trading).
 reason – The reason for trade closure.
 volume – The lot size or contract size of the trade.
 profit – The total monetary profit/loss from the trade.
-
+```
 ---
 
 #               Key Insights             #
