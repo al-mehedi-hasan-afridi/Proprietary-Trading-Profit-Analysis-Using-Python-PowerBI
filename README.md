@@ -6,19 +6,19 @@
 
 The columns in the dataset represented the following: <br>
 **login** – The unique identifier for a trader's account. <br>
-**ticket** – The unique trade ID assigned to each transaction.
-**symbol** – The financial instrument being traded.
-**type** – The type of trade executed.
-**open_time** – The exact timestamp when the trade was opened.
-**close_time** – The exact timestamp when the trade was closed.
-**open_price** – The price at which the asset was bought or sold when the trade was initiated.
-**close_price** – The price at which the asset was bought or sold when the trade was closed.
-**stop loss** – The predefined price level where the trade would automatically close to minimize losses.
-**take profit** – The predefined price level where the trade would automatically close to secure profits.
-**pips** – The profit/loss measured in pips (smallest price movement in trading).
-**reason** – The reason for trade closure.
-**volume** – The lot size or contract size of the trade.
-**profit** – The total monetary profit/loss from the trade.
+**ticket** – The unique trade ID assigned to each transaction. <br>
+**symbol** – The financial instrument being traded. <br>
+**type** – The type of trade executed. <br>
+**open_time** – The exact timestamp when the trade was opened. <br>
+**close_time** – The exact timestamp when the trade was closed. <br>
+**open_price** – The price at which the asset was bought or sold when the trade was initiated. <br>
+**close_price** – The price at which the asset was bought or sold when the trade was closed. <br>
+**stop loss** – The predefined price level where the trade would automatically close to minimize losses. <br>
+**take profit** – The predefined price level where the trade would automatically close to secure profits. <br>
+**pips** – The profit/loss measured in pips (smallest price movement in trading). <br>
+**reason** – The reason for trade closure. <br>
+**volume** – The lot size or contract size of the trade. <br>
+**profit** – The total monetary profit/loss from the trade. <br>
 
 ---
 
